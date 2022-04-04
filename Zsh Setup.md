@@ -28,7 +28,11 @@ source ~/anaconda3/bin/activate
 source <Anaconda3 Path>/bin/activate
 ```
 
-to the file. Then
+to the file.
+
+![](pictures\p1.png)
+
+Then, 
 
 ```bash
 source ~/.zshrc
@@ -50,6 +54,8 @@ sudo apt install fonts-powerline
 - unzip and copy all the `ttf` files to `C:/Windows/Fonts`
 
 - Restart `Windows Termial`, open `settings`, choose `Cascadia Mono PL` or `Cascadia Code PL`
+
+
 
 ## Powerlevel10k Theme
 
